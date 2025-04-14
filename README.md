@@ -40,8 +40,4 @@ Once the repository is correctly installed, the utility scripts will be availabl
 
 After installation, run the scripts as needed to manage multi-disc game labels and Title Update data. Please refer to any inline comments within the scripts for detailed usage instructions.
 
-## Contributing and Support
-
-Contributions, bug reports, and suggestions for improvements are welcome! Please open an issue or submit a pull request on GitHub if you would like to help enhance the project.
-
 ---
