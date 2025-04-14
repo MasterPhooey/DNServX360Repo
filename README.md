@@ -34,7 +34,7 @@ Clears all entries from the TitleUpdates table, Good if you are using TU Restore
      ```
    - This folder is part of your existing Aurora installation.
 
-Once the repository is correctly installed, the utility scripts will be available for use on your Xbox 360 system.
+Once the repository is correctly installed, the utility scripts will be available for use on your Aurora scripts menu.
 
 ## Usage
 
