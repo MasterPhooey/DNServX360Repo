@@ -12,13 +12,13 @@ Correctly labels multi-disc games to ensure proper organization and display with
 
 ### DNServ TU Restore
 **Description:**  
-Restores Title Update data to the system cache, maintaining an up-to-date and smooth update process.
+Restores Title Update data to the system cache from cacheBak maintaining TU after they get deleted.
 
 ---
 
 ### DNServ Aurora TU Clear
 **Description:**  
-Clears all entries from the TitleUpdates table and removes the corresponding directory, cleaning up outdated or unwanted update data.
+Clears all entries from the TitleUpdates table, Good if you are using TU Restore.
 
 ---
 
