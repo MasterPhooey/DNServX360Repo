@@ -4,6 +4,24 @@ This repository includes a set of utility scripts designed to enhance the Xbox 3
 
 ## Scripts Overview
 
+### AutoCacheBak2Cache *(Not part of the repository)*  
+**Description:**  
+Automatically copies Title Update files from the `cacheBak` folder to the `cache` folder on startup. This is useful if you maintain a collection of cache TU in `cacheBak`, as cache TU are constantly deleted.
+
+**Installation:**  
+Place this script in the `User\Scripts` folder.
+
+---
+
+### AutoCache2CacheBak *(Not part of the repository)*  
+**Description:**  
+Automatically copies Title Update files from the `cache` folder to the `cacheBak` folder on startup, providing a convenient method to back up TU from the cache folder.
+
+**Installation:**  
+Place this script in the `User\Scripts` folder.
+
+---
+
 ### DNServDiscs
 **Description:**  
 Correctly labels multi-disc games to ensure proper organization and display within your system.
