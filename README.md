@@ -8,17 +8,11 @@ This repository includes a set of utility scripts designed to enhance the Xbox 3
 **Description:**  
 Automatically copies Title Update files from the `cacheBak` folder to the `cache` folder on startup. This is useful if you maintain a collection of cache TU in `cacheBak`, as cache TU are constantly deleted.
 
-**Installation:**  
-Place this script in the `User\Scripts` folder.
-
 ---
 
 ### AutoCache2CacheBak *(Not in the repository)*  
 **Description:**  
 Automatically copies Title Update files from the `cache` folder to the `cacheBak` folder on startup, providing a convenient method to back up TU from the cache folder.
-
-**Installation:**  
-Place this script in the `User\Scripts` folder.
 
 ---
 
