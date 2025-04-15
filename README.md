@@ -1,4 +1,4 @@
-# DNServ Xbox 360 Repo for Xbox 360 Aurora
+# DNServ Xbox 360 Repo Aurora
 
 This repository includes a set of utility scripts designed to enhance the Xbox 360 Aurora environment. These scripts automate various maintenance tasks such as proper labeling of multi-disc games and efficient management of Title Updates.
 
